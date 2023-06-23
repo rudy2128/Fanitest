@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test Apps</string>
+    <string name="helo">helooo</string>
+    <string name="name">Nama</string>
+    <string name="send">SEND</string>
+    <string name="result">Result</string>
+</resources>
